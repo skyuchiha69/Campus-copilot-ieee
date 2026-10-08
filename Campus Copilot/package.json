@@ -1,0 +1,11 @@
+{
+  "name": "campus-copilot-root",
+  "version": "1.0.0",
+  "description": "Campus Copilot root proxy package",
+  "scripts": {
+    "dev": "npm --prefix campus-copilot-backend run dev",
+    "start": "npm --prefix campus-copilot-backend start",
+    "build": "npm --prefix campus-copilot-backend run build",
+    "install:all": "npm --prefix campus-copilot-backend install"
+  }
+}
